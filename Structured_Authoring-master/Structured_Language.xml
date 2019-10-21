@@ -12,6 +12,8 @@
     <Medium>In Person</Medium>
     <Capacity>10-25 Students</Capacity>
     <Length>60-90 Minutes</Length>
+    <Address>TBD</Address>
+    <Room>TBD</Room>
   </Workshop>
 
   <Workshop Topic="Knowing the Context">
@@ -22,6 +24,8 @@
     <Medium>In Person or Online</Medium>
     <Capacity>10-25 Students</Capacity>
     <Length>60-90 Minutes</Length>
+    <Address>TBD</Address>
+    <Room>TBD</Room>
   </Workshop>
 
   <Workshop Topic="Better Writing Better Meetings">
@@ -32,6 +36,8 @@
     <Medium>In Person and Online</Medium>
     <Capacity>10-25 Students</Capacity>
     <Length>45-60 Minutes</Length>
+    <Address>TBD</Address>
+    <Room>TBD</Room>
   </Workshop>
 
   <Workshop Topic="Overcoming Techincal Difficulties">
@@ -42,6 +48,8 @@
     <Medium>Online</Medium>
     <Capacity>10-40 Students</Capacity>
     <Length>60-90 Minutes</Length>
+    <Address>TBD</Address>
+    <Room>TBD</Room>
   </Workshop>
 
 

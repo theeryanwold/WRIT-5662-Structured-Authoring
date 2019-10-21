@@ -7,3 +7,5 @@
 <!ELEMENT Medium (#PCDATA)>
 <!ELEMENT Capacity (#PCDATA)>
 <!ELEMENT Length (#PCDATA)>
+<!ELEMENT Address (#PCDATA)>
+<!ELEMENT Room (#PCDATA)>
